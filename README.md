@@ -1,7 +1,7 @@
-# GMX Contracts
-Contracts for GMX.
+# Moonmex Contracts
+Contracts for Moonmex.
 
-Docs at https://gmxio.gitbook.io/gmx/contracts.
+Docs at https://mox.gitbook.io/mox/contracts.
 
 ## Install Dependencies
 If npx is not installed yet:
